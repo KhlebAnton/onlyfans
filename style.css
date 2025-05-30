@@ -186,7 +186,7 @@ button {
     flex-direction: column;
     gap: 16px;
     align-items: center;
-    max-width: 268px;
+   width: 100%;
     margin: 0 auto;
 }
 
@@ -194,6 +194,7 @@ button {
     font-size: 14px;
     line-height: 20px;
     text-align: center;
+     max-width: 268px;
 }
 
 .section_stats__content {
@@ -905,6 +906,7 @@ footer {
     .hero_info__wrapper_bottom .btn_primary {
         width: 100%;
     }
+    
 
 
 }
