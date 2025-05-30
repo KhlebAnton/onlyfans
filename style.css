@@ -875,6 +875,9 @@ footer {
     .modal {
         padding-top: 10vh;
     }
+    .pluses__item::before {
+        display: none;
+    }
 }
 
 @media (max-width:700px) {
