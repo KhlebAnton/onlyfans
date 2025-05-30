@@ -906,7 +906,9 @@ footer {
     .hero_info__wrapper_bottom .btn_primary {
         width: 100%;
     }
-    
+    .pluses__item {
+        cursor: pointer;
+    }
 
 
 }
